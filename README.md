@@ -1,4 +1,4 @@
-# Olá! 👋
+## Hey! What's up? 👋
 I am an enthusiast of Data Science and Artificial Intelligence! Here you can find my main projects.
 
 ## About Me
