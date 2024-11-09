@@ -1,6 +1,16 @@
-## Perfil
+# Olá! 👋
+I am an enthusiast of Data Science and Artificial Intelligence! Here you can find my main projects.
 
-### Badges e Certificados: 
+## About Me
+- 🌱 Currently learning more about Machine Learning, RAG, Software Engineering and more!
+- 💼 Open to collaborations on open-source projects.
+- 📫 Contact me: [claudioangontijo@gmail.com](mailto:claudioangontijo@gmail.com)
+
+## Featured Projects
+- [Project A](https://github.com/your_username/project-a) - Brief project description
+- [Project B](https://github.com/your_username/project-b) - Brief project description
+
+### Badges and certificates: 
 ![WebTech+Membro+-+Nível+1](https://github.com/user-attachments/assets/975ea6a9-9e57-4982-afd1-82696eb78910)
 
 <!--
