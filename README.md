@@ -1,4 +1,7 @@
-## Hi there 👋
+## Perfil
+
+### Badges e Certificados: 
+![WebTech+Membro+-+Nível+1](https://github.com/user-attachments/assets/975ea6a9-9e57-4982-afd1-82696eb78910)
 
 <!--
 **claudiogpt/claudiogpt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
