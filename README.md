@@ -10,7 +10,7 @@ I am an enthusiast of Data Science and Artificial Intelligence! Here you can fin
 - [Project A](https://github.com/your_username/project-a) - Brief project description
 - [Project B](https://github.com/your_username/project-b) - Brief project description
 
-### Badges and certificates: 
+## Badges and certificates: 
 ![WebTech+Membro+-+Nível+1](https://github.com/user-attachments/assets/975ea6a9-9e57-4982-afd1-82696eb78910)
 
 <!--
